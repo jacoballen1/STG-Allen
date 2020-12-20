@@ -6,4 +6,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stg-allen&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![stg_allen's github stats](https://github-readme-stats.vercel.app/api?username=stg-allen&count_private=true&theme=dark)
